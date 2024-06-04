@@ -26,4 +26,4 @@ combined_image = np.concatenate(
     axis=1
 )
 
-cv2.imwrite("Output/combined_image.jpeg", combined_image)
+cv2.imwrite("Output/combined_image.jpg", combined_image)
