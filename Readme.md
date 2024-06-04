@@ -114,5 +114,5 @@ Execute this command in terminal:
 python Virtual_Decoration.py
 ```
 ## Results
-![output](output\Virtual_Decoration.jpg)
+![output](https://github.com/HosseinPashapour/Assignment_29/blob/main/Virtual_Decoration/output/Virtual_Decoration.jpg)
 
