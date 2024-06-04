@@ -55,7 +55,7 @@ Execute this command in terminal:
 python Face_Morphing.py
 ```
 ## Results
-![output](output\combined_image.jpeg)
+![output](https://github.com/HosseinPashapour/Assignment_29/blob/main/Face_Morphing/Output/combined_image.jpeg)
 
 
 
@@ -75,7 +75,7 @@ Execute this command in terminal:
 python Find_The_Secret_Text.py
 ```
 ## Results
-![output](output\Secret_Text.jpg)
+![output](https://github.com/HosseinPashapour/Assignment_29/blob/main/Find_The_Secret_Text/output/Secret_Text.jpg)
 
 
 
@@ -94,7 +94,7 @@ Execute this command in terminal:
 python Photo_To_Sketch.py
 ```
 ## Results
-![output](output\Hilari.jpg)
+![output](https://github.com/HosseinPashapour/Assignment_29/blob/main/Photo_To_Sketch/Output/Hilari.jpg)
 
 
 
